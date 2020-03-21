@@ -6,4 +6,4 @@ I had developed an Angular application you can check my repository https://githu
 The same application I have converted into a desktop application using Electron.
 
 ### App View
-![]()
+![](https://github.com/ashishrana080699/Cross-Platform-Desktop-App-with-Angular-Electron/blob/master/Screenshot.png)
